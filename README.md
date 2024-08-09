@@ -1,4 +1,8 @@
 # SelfProjectDE1
+
+### Looker
+https://lookerstudio.google.com/s/t2s-VSRBvZU
+
 ### Target Pencapaian
 - Bisa membuat ETL sederhana
 - Mengasah skill di sesi2 sebelumnya seperti git, python, database dan BI
