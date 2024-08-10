@@ -1,4 +1,4 @@
-# SelfProjectDE1
+# Data Engineering: Batch Processing
 
 ### Looker
 https://lookerstudio.google.com/s/t2s-VSRBvZU
